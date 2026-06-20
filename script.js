@@ -1,5 +1,5 @@
 /* ============================================================
-   LIFELINK — SCRIPT
+   PulseCare — SCRIPT
    ============================================================ */
 document.addEventListener('DOMContentLoaded', () => {
  
@@ -190,7 +190,7 @@ document.addEventListener('DOMContentLoaded', () => {
  
   const activityMessages = [
     { icon: 'fa-heart-pulse', text: 'Heart rate steady within normal range' },
-    { icon: 'fa-satellite-dish', text: 'Wristband synced with LifeLink cloud' },
+    { icon: 'fa-satellite-dish', text: 'Wristband synced with PulseCare cloud' },
     { icon: 'fa-pills', text: 'Morning dose dispensed on schedule' },
     { icon: 'fa-droplet', text: 'SpO\u2082 reading stable' },
     { icon: 'fa-shield-heart', text: 'Routine vitals check complete — all clear' },
